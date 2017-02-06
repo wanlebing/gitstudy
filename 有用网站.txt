@@ -1,2 +1,2 @@
-malloc£ºhttp://blog.codinglabs.org/articles/a-malloc-tutorial.html
-duartes.org£ºhttp://duartes.org/gustavo/blog/archives/
+malloc: http://blog.codinglabs.org/articles/a-malloc-tutorial.html
+duartes.org: http://duartes.org/gustavo/blog/archives/

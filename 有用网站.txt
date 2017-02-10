@@ -6,3 +6,4 @@ TCP/IP network: http://blog.packagecloud.io/eng/2016/10/11/monitoring-tuning-lin
 netfilter.org: https://people.netfilter.org/pablo/netdev0.1/papers/
 tuning-linux-sending: https://blog.packagecloud.io/eng/2017/02/06/monitoring-tuning-linux-networking-stack-sending-data/
 tuning-linux-receiving: https://blog.packagecloud.io/eng/2016/06/22/monitoring-tuning-linux-networking-stack-receiving-data/
+strace: https://blog.packagecloud.io/eng/2016/02/29/how-does-strace-work/

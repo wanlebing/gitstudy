@@ -10,3 +10,4 @@ strace: https://blog.packagecloud.io/eng/2016/02/29/how-does-strace-work/
 IBM-Tim: https://www.ibm.com/developerworks/cn/views/linux/libraryview.jsp?search_by=Linux+%E5%89%96%E6%9E%90
 yeolar: http://www.yeolar.com/ 
                http://www.yeolar.com/note/2012/03/29/virtual-memory/
+vxlan: https://blogs.vmware.com/vsphere/2013/07/vxlan-series-how-vmotion-impacts-the-forwarding-table-part-6.html

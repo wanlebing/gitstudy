@@ -20,3 +20,5 @@ calico: http://docs.projectcalico.org/v2.0/introduction/
 docker: http://www.infoq.com/cn/articles/docker-network-and-pipework-open-source-explanation-practice
 Flannel: http://dockone.io/article/618
 SDN: https://www.opennetworking.org/
+Linux Kernel Networking: https://wiki.linuxfoundation.org/networking/start
+MacVtap: https://blog.kghost.info/2013/03/27/linux-network-tun/

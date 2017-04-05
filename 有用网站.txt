@@ -22,3 +22,9 @@ Flannel: http://dockone.io/article/618
 SDN: https://www.opennetworking.org/
 Linux Kernel Networking: https://wiki.linuxfoundation.org/networking/start
 MacVtap: https://blog.kghost.info/2013/03/27/linux-network-tun/
+	http://blog.csdn.net/dog250/article/details/45788279
+Neutron: http://blog.csdn.net/quqi99/article/details/22853403
+Linux Bridge: http://blog.csdn.net/yeasy/article/details/50728243
+Docker Networking: http://edgedef.com/docker-networking.html
+Tun/Tap interface: http://backreference.org/2010/03/26/tuntap-interface-tutorial/
+TC ifb: http://blog.csdn.net/dog250/article/details/40680765?utm_source=tuicool&utm_medium=referral
